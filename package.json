@@ -1,0 +1,21 @@
+{
+  "name": "token-meter",
+  "version": "0.1.0",
+  "description": "Real-time token consumption monitor for AI chat interfaces",
+  "keywords": ["ai", "tokens", "monitoring", "claude", "openai", "llm", "cost-tracking"],
+  "author": "Marian",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+    "vite": "^5.0.0"
+  }
+}
